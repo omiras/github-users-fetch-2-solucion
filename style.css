@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    padding: 20px;
+    text-align: center;
+}
+
+#myTable {
+    width: 100%;
+    border: 1px solid black;
+}
+
+#myTable tr>td>img {
+    width: 150px;
+    height: auto;
+}
+
+th {
+    background-color: yellow;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+}
